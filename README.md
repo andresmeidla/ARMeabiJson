@@ -28,6 +28,7 @@ Works on
 --------
 
 * All Arduino boards (Uno, Due, Mini, Micro, Yun...)
+* All STM32 MCU's
 * ESP8266
 * Teensy
 * Intel Edison and Galileo
